@@ -5,6 +5,13 @@
 
 Here are some ideas to get you started:
 
+Hey 👋🏽, I'm Yanlele
+About me
+Web Development Engineer
+Currently working with JavaScript and TypeScript
+Continuous learning: Desktop, mobile, fronted, backend, devOps, games, designer
+Blogs 🌱
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
