@@ -9,7 +9,7 @@
 <h3 align="center">Blogs 🌱</h3>
 <p align="center">
     <a href="http://duanyinghao.com/">
-        <img src="https://cdn.jsdelivr.net/gh/yanlele/node-index/static/devblogs.svg">
+        <img src="http:///duanyinghao.com//upload/2022/07/wallpaper.png">
     </a>
 </p>
 
