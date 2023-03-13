@@ -2,9 +2,9 @@
 
 <h2 align="center">About me</h2>
 
-- Web Development Engineer
-- Currently working with JavaScript and TypeScript
-- Continuous learning: Desktop, mobile, fronted, backend, devOps, games, designer
+<h5>- Web Development Engineer</h5>
+<h5>- Currently working with JavaScript and TypeScript</h5>
+<h5>- Continuous learning: Desktop, mobile, fronted, backend, devOps, games, designer</h5>
 
 <h3 align="center">Blogs 🌱</h3>
 <p align="center">
